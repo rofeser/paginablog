@@ -22,7 +22,7 @@ body
 
 #cabecera #logo
 {
-    width: 20px;
+    width: 48px;
     vertical-align: middle;
 }
 
@@ -58,7 +58,7 @@ body
     background: #777;
     color: white;
     text-align: center;
-    padding: 0.5em;
+    padding: 0.9em;
 
 }
 
