@@ -1,5 +1,6 @@
 body
 {
+    background: #1e1f24;
     color: rgb(58, 99, 58);
     text-align: center;
     font-family: "Ariel";
@@ -17,6 +18,12 @@ body
     margin: 0;
     padding: 0.5em;
     
+}
+
+#cabecera #logo
+{
+    width: 20px;
+    vertical-align: middle;
 }
 
 #cabecera #tagline
@@ -42,7 +49,9 @@ body
 }
 #paginaweb
 {
+    background: white;
     padding: 1em;
+
 }
 
 
